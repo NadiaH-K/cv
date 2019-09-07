@@ -1,0 +1,44 @@
+body {
+  background-color:#eae9e9;
+}
+hr {
+  width:40px;
+  border-width:10px;
+  border-style:none;
+  border-top-style:dotted;
+  border-color: green;
+}
+h1
+{
+  color:#4e9525;
+  text-align: center;
+  text-shadow: 2px 2px white;
+}
+h3
+{
+  color:#589167;
+}
+a
+{
+color:#589167;
+
+}
+a:link {
+  text-decoration: none;
+}
+
+input {
+  margin: 8px 0;
+  border-width: 2px;
+  border-radius: 4px;
+  border-color: green;
+}
+form textarea {
+  width: 80%;
+  height: 150px;
+  padding: 12px 20px;
+  border: 2px solid green;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
